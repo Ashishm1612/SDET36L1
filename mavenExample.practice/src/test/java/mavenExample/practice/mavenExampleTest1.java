@@ -6,7 +6,7 @@ public class mavenExampleTest1 {
 	@Test
 	public void mavenTest1() {
 		System.out.println("test1 ");
-		System.out.println("test run");
+		System.out.println("test run 1");
 	}
 	@Test
 	public void mavenTest2() {
