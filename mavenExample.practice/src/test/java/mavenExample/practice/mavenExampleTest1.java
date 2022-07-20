@@ -16,7 +16,11 @@ public class mavenExampleTest1 {
 	@Test
 	public void mavenTest3() {
 		System.out.println("test3 ");
-		System.out.println("test3 ");
+		System.out.println("test3 ");}
+		@Test
+		public void mavenTest4() {
+			System.out.println("test3 ");
+			System.out.println("test3 ");
 
 		
 
