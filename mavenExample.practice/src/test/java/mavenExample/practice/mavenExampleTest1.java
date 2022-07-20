@@ -18,7 +18,7 @@ public class mavenExampleTest1 {
 		System.out.println("test3 ");
 		System.out.println("test run");
 
-		System.out.println("test 3 run");
+		
 
 	}
 
