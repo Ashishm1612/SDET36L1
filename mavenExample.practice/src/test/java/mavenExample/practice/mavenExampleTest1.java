@@ -7,10 +7,7 @@ public class mavenExampleTest1 {
 	
 	@Test
 	public void mavenTest1() {
-	String BROWSER 	=System.getProperty("browser");
-		String URL = System.getProperty("url");
-		System.out.println("browser------>" +BROWSER);
-		System.out.println("url------>" +URL);
+	
 		System.out.println("test1 ");
 		System.out.println("test run 1");
 	}

@@ -3,14 +3,18 @@ package mavenExample.practice;
 import org.testng.annotations.Test;
 
 public class mavenExampleTest4 {
+	public void simple() {
+		String BROWSER 	=System.getProperty("browser");
+		String URL = System.getProperty("url");
+		System.out.println("browser------>" +BROWSER);
+		System.out.println("url------>" +URL);
+		
+	}
 
 	
 	@Test
 	public void mavenTest1() {
-	String BROWSER 	=System.getProperty("browser");
-		String URL = System.getProperty("url");
-		System.out.println("browser------>" +BROWSER);
-		System.out.println("url------>" +URL);
+	System.out.println("test 1");
 		
 	}
 	@Test
