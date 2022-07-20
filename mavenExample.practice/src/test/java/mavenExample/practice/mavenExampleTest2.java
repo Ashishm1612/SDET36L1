@@ -13,7 +13,7 @@ public class mavenExampleTest2 {
 	}
 	@Test
 	public void mavenTest3() {
-		System.out.println("test3 ");
+		System.out.println("test3 all the tests");
 	}
 
 }
